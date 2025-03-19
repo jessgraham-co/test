@@ -392,7 +392,10 @@ refined question: okay thanks
 
    **Trustworthiness Score:** 0.388
 
-   **Prompt (without template):** cardmember: okay thanks
+   **Prompt (without template):**
+   ````
+   Cardmember: okay thanks
+   ````
 
    **Explanation:** The cardmember's message "okay thanks" does not contain a specific question or request for information. It appears to be a response to a previous interaction rather than a query that seeks verifiable facts or information. Since it does not provide any context or detail that would allow for a search in a FAQ Knowledge Base, it is not suitable as a search query. Therefore, the proposed response does not improve upon the original message, as it remains unchanged and does not serve the purpose of retrieving relevant information. A better response would involve rephrasing or expanding the message to include a specific question or topic of interest related to American Express services. 
 This response is untrustworthy due to lack of consistency in possible responses from the model. Here's one inconsistent alternate response that the model considered (which may not be accurate either): 
@@ -404,7 +407,10 @@ Certainly! Please provide the customer support chat message or the cardmember's 
    
    **Trustworthiness Score:** 0.559
 
-   **Prompt (without template):** cardmember: thank you! that worked. have a good day.
+   **Prompt (without template):**
+   ````
+   Cardmember: thank you! that worked. have a good day.
+   ````
 
    **Explanation:** The cardmember's message is a simple expression of gratitude and does not contain a specific question or request for information that would require a search query. It is a conversational response indicating that a previous interaction was successful. Since the message does not seek verifiable facts or information, it does not need to be refined into a search query. Therefore, the proposed response correctly identifies that there is no need for a refined question. 
 This response is untrustworthy due to lack of consistency in possible responses from the model. Here's one inconsistent alternate response that the model considered (which may not be accurate either): Search query: "What solutions are available if I encounter issues with my American Express account?".
@@ -428,7 +434,10 @@ To improve the quality of search queries in the future, the original prompt coul
 1. **Response:** 'changing your apr?'
    **Trustworthiness Score:** 0.414
 
-   **Prompt (without template):** cardmember: changing my a p r
+   **Prompt (without template):**
+   ````
+   Cardmember: changing my a p r
+   ````
 
    **Explanation:** This response is untrustworthy due to lack of consistency in possible responses from the model. Here's one inconsistent alternate response that the model considered (which may not be accurate either): 
 changing my a p r.
@@ -436,7 +445,10 @@ changing my a p r.
 2. **Response:** 'see if i could get a lower apr.'
    **Trustworthiness Score:** 0.662
 
-   **Prompt (without template):** cardmember: see if i could get a lower a p r
+   **Prompt (without template):**
+   ````
+   Cardmember: see if i could get a lower a p r
+   ````
 
    **Explanation:** The proposed response "see if i could get a lower apr" is a direct repetition of the cardmember's original message. While it does reflect the user's intent to inquire about the possibility of obtaining a lower annual percentage rate (APR), it lacks specificity and clarity that would be beneficial for a search query. A more effective search query would explicitly state the user's request in a way that aligns with common phrasing used in FAQ databases. For example, a better search query could be "How can I request a lower APR on my American Express card?" This version is more likely to yield relevant results from a knowledge base, as it clearly indicates the action the user wants to take and the context of their inquiry. Therefore, the proposed response does not meet the criteria for a high-quality search query. 
 This response is untrustworthy due to lack of consistency in possible responses from the model. Here's one inconsistent alternate response that the model considered (which may not be accurate either): 
