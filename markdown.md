@@ -1787,7 +1787,8 @@ To avoid these patterns in the future, the original prompt could be modified to 
 **Data indices of examples in this cluster:** [15, 16]
 
 ---
-
+<br>
+<br>
 
 
 
@@ -1814,8 +1815,8 @@ This report aims to help you:
 1. Identify patterns of problematic responses in your LLM outputs
 2. Understand the specific issues that lead to low trustworthiness scores
 3. Prioritize which response types to address first based on frequency and severity
-
-  
-5. Gain insights into how to improve your prompting strategies to avoid these issues
+4. Gain insights into how to improve your prompting strategies to avoid these issues
 
 By focusing your prompt engineering efforts on the highest-priority clusters, you can efficiently improve the overall quality and trustworthiness of your LLM's responses.
+
+
